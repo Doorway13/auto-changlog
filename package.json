@@ -1,0 +1,11 @@
+{
+  "name": "auto-changlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Doorway13/auto-changlog.git",
+  "author": "Doorway13 <jschooley2020@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
